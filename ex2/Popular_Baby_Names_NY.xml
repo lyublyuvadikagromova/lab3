@@ -1,0 +1,19 @@
+<response>
+    <row _id="row-v4f5~xz3v-vr86" _uuid="00000000-0000-0000-E0ED-52E8592E0A7A" _position="0" _address="https://data.cityofnewyork.us/resource/_25th-nujf/row-v4f5~xz3v-vr86">
+        <brth_yr>2011</brth_yr>
+        <gndr>FEMALE</gndr>
+        <ethcty>HISPANIC</ethcty>
+        <nm>GERALDINE</nm>
+        <cnt>13</cnt>
+        <rnk>75</rnk>
+    </row>
+    <row _id="row-gdep~mr7x-dj3u" _uuid="00000000-0000-0000-68AD-7B741D1DF31B" _position="0" _address="https://data.cityofnewyork.us/resource/_25th-nujf/row-gdep~mr7x-dj3u">
+        <brth_yr>2011</brth_yr>
+        <gndr>FEMALE</gndr>
+        <ethcty>HISPANIC</ethcty>
+        <nm>GIA</nm>
+        <cnt>21</cnt>
+        <rnk>67</rnk>
+    </row>
+   
+</response>
